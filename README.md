@@ -1,3 +1,3 @@
 # AppRadio-Admin
 
-Configurando modulo
+SOlucionando problemas
